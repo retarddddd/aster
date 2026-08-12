@@ -5,7 +5,7 @@ Simple and compact Minecraft 26.2 cheat made for SMPs.
 ![Click GUI](clickguiReadme.png)
 
 ## Notes / Known Issues
-The entire client was made in around a week, therefore it might contain some bugs, and the code is not the best in some places. This is also my first time making a proper Minecraft Java cheat (I mostly did Bedrock cheat development and low-level reverse engineering before).
+The entire client was made in around a week, therefore it might contain some bugs, and the code is not the best in some places. This is also my first time making a proper Minecraft Java cheat (I mostly did Bedrock cheat development and native reverse engineering before).
 
 The bypasses in this client are mostly made for NCP and the custom anticheats of the servers I play on.
 
