@@ -1,0 +1,27 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cx.kloinn.aster.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "LevelRenderMixin",
+    "GameRendererAccessor",
+    "HudMixin",
+    "ClientLevelAccessor",
+    "KeyboardHandlerMixin",
+    "MouseHandlerMixin",
+    "MinecraftMixin",
+    "PlayerMixin",
+    "LocalPlayerMixin",
+    "NetworkMixins",
+    "EntityFlagAccessor",
+    "DeltaTrackerMixinAccessor",
+    "DeltaTrackerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
